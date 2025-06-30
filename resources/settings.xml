@@ -1,0 +1,7 @@
+<settings>
+    <category label="Settings">
+        <setting id="GAMES_FILE" type="file" label="Installed Games File" default="Q:/games.txt"/>
+        <setting id="CACHE_FILE" type="file" label="HLTB Cache File" default="Q:/hltb_cache.json"/>
+        <setting id="PAGINATION" type="text" label="Games Per Page" default="10"/>
+    </category>
+</settings>
