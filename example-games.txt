@@ -1,0 +1,3 @@
+"Half-Life 2", "F:\Games\Action\Half-Life 2 (GLO)\default.xbe"
+"Halo - Combat Evolved", "F:\Games\Action\Halo - Combat Evolved (USA)\default.xbe"
+"Halo 2", "F:\Games\Action\Halo 2 (GLO)\default.xbe"
