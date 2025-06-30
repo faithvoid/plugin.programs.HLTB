@@ -1,0 +1,15 @@
+<addon id="programs.xHLTB"
+       version="1.1.0"
+       name="xHLTB - How Long To Beat"
+       provider-name="faithvoid">
+    <requires>
+        <import addon="xbmc.python" version="1.0"/>
+    </requires>
+    <extension point="xbmc.addon.weather" library="default.py"/>
+    <extension point="xbmc.addon.metadata">
+        <summary>xHLTB - How Long To Beat</summary>
+        <description>Displays information on how long each installed game takes to complete!</description>
+        <platform>xbox</platform>
+    </extension>
+    <extension point="xbmc.addon.settings" file="resources/settings.xml"/>
+</addon>
